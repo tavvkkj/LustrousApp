@@ -1,0 +1,14 @@
+{
+  "events": {
+    "ready": {
+      "online": "Logged in as {tag}"
+    },
+    "interaction": {
+      "unknownCommand": "Received unknown command: {name}",
+      "executionError": "Error executing command: {name}"
+    }
+  },
+  "errors": {
+    "commandFailed": "An error occurred while executing this command."
+  }
+}

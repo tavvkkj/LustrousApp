@@ -1,0 +1,14 @@
+{
+  "events": {
+    "ready": {
+      "online": "Вошел как {tag}"
+    },
+    "interaction": {
+      "unknownCommand": "Получена неизвестная команда: {name}",
+      "executionError": "Ошибка при выполнении команды: {name}"
+    }
+  },
+  "errors": {
+    "commandFailed": "Произошла ошибка при выполнении этой команды."
+  }
+}

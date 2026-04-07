@@ -1,0 +1,14 @@
+{
+  "events": {
+    "ready": {
+      "online": "Conectado como {tag}"
+    },
+    "interaction": {
+      "unknownCommand": "Comando desconhecido recebido: {name}",
+      "executionError": "Erro ao executar o comando: {name}"
+    }
+  },
+  "errors": {
+    "commandFailed": "Ocorreu um erro ao executar este comando."
+  }
+}
